@@ -1,0 +1,3 @@
+include ':app', 'opencv'
+include ':opencv'
+include ':opencv'
